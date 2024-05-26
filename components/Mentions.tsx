@@ -10,7 +10,7 @@ const OPTIONS: EmblaOptionsType = { loop: true }
 
 const Mentions = () => {
   const [mentionsSlides, setMentionsSlides] = useState<JSX.Element[]>([])
-
+  /* comment */
   useEffect(() => {
     const slides = mentionsContent.map((mention, index) => (
       <div
