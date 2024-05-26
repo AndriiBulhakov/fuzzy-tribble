@@ -1,6 +1,7 @@
 import { useState } from "react"
 import ServicesList from "./ServicesList"
 import BackgroundBubbles from "./BackgroundBubbles"
+import Image from "next/image"
 
 type ServicesProps = {
   subtitleBackgroundColor: string
