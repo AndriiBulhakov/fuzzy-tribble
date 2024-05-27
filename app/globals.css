@@ -188,7 +188,7 @@ a:not(.btn):not(.product-hunt-badge):not(.without-underline):hover {
 
 /* animation to moving bubbles */
 
-.bubble.is--red {
+/* .bubble.is--red {
   animation: move-bubble-red 6s infinite;
   animation-delay: 1s;
 }
@@ -237,7 +237,7 @@ a:not(.btn):not(.product-hunt-badge):not(.without-underline):hover {
   100% {
     transform: translate(0vw, 0vh) rotate(-56.943deg);
   }
-}
+} */
 
 /* Texts */
 .text-headlines\/h1,
